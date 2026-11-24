@@ -143,6 +143,8 @@ The validation phase monitors how well the model performs on sentences that were
 
 Validation loss is calculated to compare the model's predictions against the expected next tokens.
 
+(While a 20-sentence dataset makes the model prone to overfitting and limits general language learning, this project is intended to understand the underlying technique rather than achieve generalization)
+
 ## Phase 11: Autoregressive Text Generation
 
 The final phase implements text generation using the trained Decoder-Only Transformer.
