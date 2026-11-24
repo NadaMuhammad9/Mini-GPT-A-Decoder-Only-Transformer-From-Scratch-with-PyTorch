@@ -19,7 +19,7 @@ This project aims to demonstrate the core concepts behind GPT-style language mod
 
 
 ## Decoder-Only Transformer architecture:
-![alt text](decoder_only_transformer.jfif)
+![alt text](decoder_only_transformer.jpg)
 
 
 # Project Phases & Implementation
